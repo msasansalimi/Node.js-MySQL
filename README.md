@@ -9,10 +9,9 @@
 
 ### Below you can see the pictures of how my app is working:
 
-### The first image shows the list of items we have in our database products table and user can select one!
+#### The first image shows the list of items we have in our database products table and user can select one!
 ![image1 2019-02-12 at 1 48 41 pm](https://user-images.githubusercontent.com/44353449/52673774-b168af00-2eef-11e9-9544-d7c95504a848.png)
-
-
+#### The second image shows the user chose item with id number 4 and name Pant!
 ![image2 2019-02-12 at 1 49 22 pm](https://user-images.githubusercontent.com/44353449/52673775-b168af00-2eef-11e9-89c4-9139ef6d714d.png)
 
 ![image3 2019-02-12 at 1 49 45 pm](https://user-images.githubusercontent.com/44353449/52673777-b168af00-2eef-11e9-9046-752112a2cfc4.png)
