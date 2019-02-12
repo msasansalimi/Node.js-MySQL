@@ -10,8 +10,7 @@
 ### Below you can see the pictures of how my app is working:
 
 
-  
-  https://github.com/msasansalimi/Node.js-MySQL/blob/master/images/Screen%20Shot%202019-02-12%20at%201.48.41%20PM.png?raw=true
+(https://github.com/msasansalimi/Node.js-MySQL/blob/master/images/Screen%20Shot%202019-02-12%20at%201.48.41%20PM.pngraw=true)
       
 
 
