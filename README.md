@@ -6,10 +6,7 @@
 ### You can check my sql database code on *bamazonSeed.sql* file. 
 
 
-### In this app user can choose the required item through the provided list by app, select the quantity and 
-### receive the price. If the item is not available or insufficient, the app base on sql database information is
-### logging insufficient quantity.
-
+### In this app user can choose the required item through the provided list by app, select the quantity and receive the price. If the item is not available or insufficient, the app base on sql database information is logging insufficient quantity.
 
 **Below you can see the pictures of how my app is working**
 
