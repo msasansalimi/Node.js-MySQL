@@ -9,7 +9,7 @@
 
 ### Below you can see the pictures of how my app is working:
 
-  Node.js-MySQL/images/Screen Shot 2019-02-12 at 1.49.45 PM.png
+  https://github.com/msasansalimi/Node.js-MySQL/images/Screen Shot 2019-02-12 at 1.49.45 PM.png
       
 
 
