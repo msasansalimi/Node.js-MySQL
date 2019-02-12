@@ -9,7 +9,9 @@
 
 ### Below you can see the pictures of how my app is working:
 
+### The first image shows the list of items we have in our database products table and user can select one!
 ![image1 2019-02-12 at 1 48 41 pm](https://user-images.githubusercontent.com/44353449/52673774-b168af00-2eef-11e9-9544-d7c95504a848.png)
+
 
 ![image2 2019-02-12 at 1 49 22 pm](https://user-images.githubusercontent.com/44353449/52673775-b168af00-2eef-11e9-89c4-9139ef6d714d.png)
 
