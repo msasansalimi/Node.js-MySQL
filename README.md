@@ -13,11 +13,11 @@
 ![image1 2019-02-12 at 1 48 41 pm](https://user-images.githubusercontent.com/44353449/52673774-b168af00-2eef-11e9-9544-d7c95504a848.png)
 #### The second image shows the user chose item with id number 4 and name Pant!
 ![image2 2019-02-12 at 1 49 22 pm](https://user-images.githubusercontent.com/44353449/52673775-b168af00-2eef-11e9-89c4-9139ef6d714d.png)
-
+#### The third image shows that user ask for more than our stock quantity and receive insufficient quantity message!
 ![image3 2019-02-12 at 1 49 45 pm](https://user-images.githubusercontent.com/44353449/52673777-b168af00-2eef-11e9-9046-752112a2cfc4.png)
-
+#### The fourth image shows user select an item with in the available quantity in our stock!
 ![image4 2019-02-12 at 1 50 04 pm](https://user-images.githubusercontent.com/44353449/52673778-b168af00-2eef-11e9-9fc7-3c4acdac3f55.png)
-
+#### The fifth image shows the order placed successfully and render the total price for the user!
 ![image5 2019-02-12 at 1 50 31 pm](https://user-images.githubusercontent.com/44353449/52673779-b2014580-2eef-11e9-936a-be6ccb7e8b86.png)
 
 
